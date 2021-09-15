@@ -1,5 +1,5 @@
 # Play
-Play is a minimal application launcher.
+ Simple Application Launcher using Python3 and Gtk3 
 
 __Features:__
 - Minimal UI
